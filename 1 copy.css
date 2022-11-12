@@ -11,7 +11,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background-color:aqua  ;
+	background-color:black !important ;
 }
 
 /* Adding transform-style CSS
@@ -22,7 +22,7 @@ body {
 	width: 200px;
 	height: 200px;
 	transform-style: preserve-3d;
-	animation: animate1 25s linear infinite;
+	animation: animate1 20s linear infinite;
 	margin-top: 20%;
 }
 
@@ -148,7 +148,7 @@ below 0px linear-gradient(transparent, transparent, #0004);
 	}
   }
 .center-text{
-				background-color: white;
+				background-color: black;
                 width: 100%;
                 margin: 0% auto;
                 color: #00FF33;

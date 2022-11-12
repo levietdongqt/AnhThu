@@ -89,7 +89,7 @@ below 0px linear-gradient(transparent, transparent, #0004);
 	width: 100%;
 	z-index: 19;
 	position: absolute;
-	top: 25%;
+	top: 29%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 	display: flex;
